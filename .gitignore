@@ -1,0 +1,25 @@
+# Flutter specific
+.dart_tool/
+.idea/
+.vscode/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.DS_Store
+.metadata
+.android/
+.ios/
+build/
+**/build/
+.gradle/
+**/gradle/
+.settings/
+*.iml
+*.log
+pubspec.lock
+.temp/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tools/
